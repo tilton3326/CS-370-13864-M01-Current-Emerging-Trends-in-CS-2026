@@ -1,11 +1,17 @@
 # CS-370-13864-M01-Current-Emerging-Trends-in-CS-2026
 
-**What code were you given? What code did you create yourself?**
+**What code were you given? What code did you create yourself?
+**
 The provided code included a maze matrix showing general obstacles and open spaces, a neural network architecture, and a training function for predicting Q-values within the pirate's Q-learning model. My goal was to incorporate Deep Q-learning into a treasure hunt maze game, teaching the pirate how to win. The pseudocode outlined the training process, featuring nested loops and conditionals to ensure valid path movements and to check if the game ended in a win or loss.
 
-**What do computer scientists do and why does it matter?**
+**What do computer scientists do and why does it matter?
+**
 Computer scientists generally design software, write and or test code, and ensure systems function correctly via debugging. They also research new technology practices, algorithms, and solutions for complex problems that may arise. Their work includes developing methods for data sorting, searching, pattern recognition, and optimization. Their contributions are vital in shaping the ever growing digital world and advancing technologies that impact daily life.
-**How do I approach a problem as a computer scientist?**
+
+**How do I approach a problem as a computer scientist?
+**
 As a computer scientist, I generally first approach a problem by first fully grasping what exactly the problem is. Once I have a crystal clear understanding of the problem with its requirements and or limitations. I break it down into smaller more manageable segments the same as many people do with debugging code, this also makes it easier to create a precise solution for each issue. Before moving forward after each solution is implemented fully, I test to ensure it functions correctly and does not create a problem further down the pipeline. Continuing this for each problem tackling any issue as they arise so it doesn't create one big mess of code.
-**What are my ethical responsibilities to the end user and the organization?**
+
+**What are my ethical responsibilities to the end user and the organization?
+**
 My ethical responsibility is to create safe software that avoids harming the users privacy and well being, while protecting user data through proper security measures and respecting privacy. I must be transparent about data collection, how the software works, and potential privacy risks along the way. To the organization, I must adhere to following policies, ethical and or moral standards, including the ACM Code of Ethics, ensuring that it is a safe and ethical environment for both the user and the company.
