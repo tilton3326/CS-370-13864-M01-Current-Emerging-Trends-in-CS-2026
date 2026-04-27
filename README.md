@@ -2,6 +2,7 @@
 
 **What code were you given? What code did you create yourself?**
 The provided code included a maze matrix showing general obstacles and open spaces, a neural network architecture, and a training function for predicting Q-values within the pirate's Q-learning model. My goal was to incorporate Deep Q-learning into a treasure hunt maze game, teaching the pirate how to win. The pseudocode outlined the training process, featuring nested loops and conditionals to ensure valid path movements and to check if the game ended in a win or loss.
+
 **What do computer scientists do and why does it matter?**
 Computer scientists generally design software, write and or test code, and ensure systems function correctly via debugging. They also research new technology practices, algorithms, and solutions for complex problems that may arise. Their work includes developing methods for data sorting, searching, pattern recognition, and optimization. Their contributions are vital in shaping the ever growing digital world and advancing technologies that impact daily life.
 **How do I approach a problem as a computer scientist?**
